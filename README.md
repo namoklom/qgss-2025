@@ -42,6 +42,8 @@ A fully functional environment capable of running simulations locally and option
 - Learned how qubits evolve under unitary transformations.  
 - Developed simple circuits to generate **superposition** and **entanglement**.  
 
+<img width="1125" height="303" alt="image" src="https://github.com/user-attachments/assets/c9ebdfa4-37af-4901-a4f1-b8083c467248" />
+
 ---
 
 ### 🔹 Lab 2 — Quantum Algorithms
@@ -55,6 +57,8 @@ A fully functional environment capable of running simulations locally and option
 **Outcome:**  
 - Demonstrated how quantum algorithms outperform classical ones for specific problems.  
 - Developed reusable circuit templates for algorithmic testing.  
+
+<img width="855" height="470" alt="image" src="https://github.com/user-attachments/assets/8b87f9af-f87d-4656-bdc2-4e5abe292769" />
 
 ---
 
@@ -70,6 +74,10 @@ A fully functional environment capable of running simulations locally and option
 - Quantified the trade-off between redundancy and error resilience.  
 - Demonstrated that simple codes can significantly improve fidelity in noisy simulations.  
 
+<img width="2084" height="1030" alt="image" src="https://github.com/user-attachments/assets/a9453236-ce14-4640-8059-ff632810cd8b" />
+
+<img width="11862" height="2170" alt="image" src="https://github.com/user-attachments/assets/e6efee3a-f8ad-4108-9e25-25141f003ad9" />
+
 ---
 
 ### 🔹 Lab 4 — Advanced Applications
@@ -83,6 +91,10 @@ A fully functional environment capable of running simulations locally and option
 **Outcome:**  
 - Showcased how hybrid quantum-classical algorithms can solve problems beyond reach of brute-force classical methods.  
 - Highlighted the role of quantum computing in **chemistry, optimization, and finance**.  
+
+<img width="1974" height="1126" alt="image" src="https://github.com/user-attachments/assets/dc98fc1b-c291-43e6-b140-db5312854667" />
+
+<img width="3918" height="1145" alt="image" src="https://github.com/user-attachments/assets/0a50492e-3120-4f5d-8dfd-157e41bd8364" />
 
 ---
 
