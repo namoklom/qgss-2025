@@ -25,6 +25,8 @@ The repository is organized to highlight the **progressive nature of quantum com
 **Outcome:**  
 A fully functional environment capable of running simulations locally and optionally connecting to **IBM Quantum Experience** backend.
 
+<img width="617" height="251" alt="image" src="https://github.com/user-attachments/assets/37baf640-18ff-44cf-b05f-b47e583b602b" />
+
 ---
 
 ### 🔹 Lab 1 — Quantum Basics
