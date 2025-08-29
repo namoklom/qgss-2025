@@ -1,8 +1,14 @@
 # 🌐 QGSS 2025 — Quantum Global Summer School
 
-This repository documents my learning journey during **Quantum Global Summer School (QGSS) 2025**, focusing on **Quantum Computing fundamentals, algorithms, and applications**.
+## 👤 Author
 
-Each lab builds progressively — from setting up the environment, understanding quantum states, implementing algorithms, addressing noise/error correction, to applying variational methods for real-world problems.  
+| Name            | Role              | LinkedIn                                      |
+|-----------------|-------------------|-----------------------------------------------|
+| Jason Emmanuel  | Full-Stack Engineer    | [linkedin.com/in/jasoneml](https://www.linkedin.com/in/jasoneml/) |
+
+This repository serves as a technical archive of my work during the **Quantum Global Summer School (QGSS) 2025**, focusing on both the theoretical framework and the practical implementation of quantum computing concepts. The materials here are not only a record of exercises but also a structured workflow that transitions from fundamental principles to advanced quantum algorithms. The work emphasizes the use of **Python, Jupyter Notebooks, and Qiskit** as the primary tools for quantum circuit design, simulation, and visualization, while also incorporating supporting libraries for linear algebra, optimization, and data analysis. 
+
+The repository is organized to highlight the **progressive nature of quantum computing education**: starting with environment setup and basic gate operations, advancing through canonical algorithms, exploring the limitations imposed by noise and decoherence, and culminating in hybrid variational methods designed for NISQ (Noisy Intermediate-Scale Quantum) devices. Each stage is approached with a combination of **mathematical rigor, circuit-level implementation, and empirical validation** through simulation. By systematically integrating quantum theory with computational experiments, this project reflects a workflow similar to what is practiced in modern quantum research and industry applications.
 
 ---
 
@@ -78,20 +84,25 @@ A fully functional environment capable of running simulations locally and option
 
 ---
 
-## 🛠️ Tech Stack
-- **Language:** Python 3.11  
-- **Environment:** Jupyter Notebook  
-- **Quantum SDK:** Qiskit (Terra, Aer, Ignis, Aqua modules)  
-- **Visualization:** Matplotlib, Seaborn, Qiskit Bloch Sphere & Circuit Drawers  
-- **Classical Optimizers:** SciPy, NumPy  
-
----
-
 ## ✨ Key Features
 - End-to-end **quantum curriculum**: setup → basics → algorithms → error correction → applications.  
 - Detailed **Jupyter notebooks** for each lab.  
 - Rich **visualizations** of circuits, Bloch spheres, and probability distributions.  
 - Experiments with **noise models** and **hybrid quantum-classical workflows**.  
+
+---
+
+## 🛠️ Tools & Tech Stack
+
+| Tool / Library   | Usage / Purpose |
+|------------------|-----------------|
+| **Python 3.11**  | Primary programming language for all labs |
+| **Jupyter Notebook** | Interactive environment for running experiments & documenting results |
+| **Qiskit (Terra, Aer, Ignis, Aqua)** | Quantum SDK for building, simulating, and executing circuits |
+| **Matplotlib & Seaborn** | Data visualization, probability distributions, and circuit analysis |
+| **Qiskit Visualization (Circuit Drawer, Bloch Sphere)** | Visualize quantum states, circuits, and Bloch sphere representations |
+| **NumPy** | Linear algebra and tensor operations for qubits and gates |
+| **SciPy Optimizers (COBYLA, SPSA)** | Classical optimizers used in VQE and QAOA |
 
 ---
 
