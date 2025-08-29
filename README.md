@@ -1,4 +1,4 @@
-# QGSS 2025 (Quantum Global Summer School) Complete Solutions (Lab 0 - 4)
+# Quantum Global Summer School 2025 Complete Solutions (Lab 0 - 4)
 
 ## 👤 Author
 
