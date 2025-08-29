@@ -4,7 +4,7 @@
 
 | Name            | Role              | LinkedIn                                      |
 |-----------------|-------------------|-----------------------------------------------|
-| Jason Emmanuel  | Full-Stack Engineer    | [linkedin.com/in/jasoneml](https://www.linkedin.com/in/jasoneml/) |
+| Jason Emmanuel  | Quantum Computing Engineer  | [linkedin.com/in/jasoneml](https://www.linkedin.com/in/jasoneml/) |
 
 This repository serves as a technical archive of my work during the **Quantum Global Summer School (QGSS) 2025**, focusing on both the theoretical framework and the practical implementation of quantum computing concepts. The materials here are not only a record of exercises but also a structured workflow that transitions from fundamental principles to advanced quantum algorithms. The work emphasizes the use of **Python, Jupyter Notebooks, and Qiskit** as the primary tools for quantum circuit design, simulation, and visualization, while also incorporating supporting libraries for linear algebra, optimization, and data analysis. 
 
