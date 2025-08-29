@@ -18,7 +18,7 @@ The repository is organized to highlight the **progressive nature of quantum com
 **Objective:** Prepare the quantum development environment.  
 **Techniques:**
 - Installed **Python 3.11** with a clean virtual environment.
-- Configured **Jupyter Notebook** for interactive exploration.
+- Configured **qBraid** for interactive exploration.
 - Installed **Qiskit** (IBM’s open-source quantum SDK).
 - Verified installation by running a sample Bell state circuit.  
 
